@@ -21,9 +21,11 @@ I’ve adopted a simple method. There are three branches currently namely: main,
    - Imagine these as separate workspaces for different ideas or changes.
    - You can make changes in these spaces without affecting the main version.
   
-   
-![Uploading Branching stratagy.png…]()
+   ![Picture1](https://github.com/HughAlfrid/323-Overview---38630834/assets/129861251/bbed05d8-ab0f-4a22-b2a7-43c6e19c4c83)
 
+
+
+![Branching stratagy](https://github.com/HughAlfrid/323-Overview---38630834/assets/129861251/8fa04699-1661-453a-b8ba-5d0bf6aa4665)
 
 
 
