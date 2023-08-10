@@ -8,7 +8,7 @@ This repository will hold presently the only the kanban project, which holds dat
 
 Branching Strategy
 
-I’ve adopted a simple method. There are three branches currently namely: main, development and features. 
+Iâ€™ve adopted a simple method. There are three branches currently namely: main, development and features. 
 1.Main Branch :
    - This is the safe version of your project that's always ready for use.
    - Think of it as the "official" version.
@@ -19,7 +19,10 @@ I’ve adopted a simple method. There are three branches currently namely: main, d
 
 3. Feature Branches :
    - Imagine these as separate workspaces for different ideas or changes.
-   - You can make changes in these spaces without affecting the main version. 
+   - You can make changes in these spaces without affecting the main version.
+  
+   
+![Uploading Branching stratagy.pngâ€¦]()
 
 
 
